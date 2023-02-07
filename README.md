@@ -1,5 +1,6 @@
 
-# Cinema Tickets Ease.
+# CineTix
+
 This is simple simulator of cinema service for reservation tickets, that supports registration, authentication and CRUD operations.
 ___
 
