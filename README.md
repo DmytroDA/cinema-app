@@ -52,7 +52,7 @@ The Cinema-Service is based on 3-layer architecture:
 
 ## 
 ## ⚙️ Steps to run the program on your computer:
-* Clone the repo: [https://github.com/DmytroDA/cinema-app/edit/cinema_project);
+* Clone the repo: [https://github.com/DmytroDA/cinema-app/);
 * Install MySQL;
 * Configure Apache Tomcat version: 9.0.xx;
 * Configure [/src/main/java/resources/db.properties](/src/main/java/resources/db.properties) with your DB-DRIVER, DB-URL, USERNAME, PASSWORD;
