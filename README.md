@@ -41,13 +41,16 @@ The Cinema-Service is based on 3-layer architecture:
 ## Technologies used in project:
 
 * Java 11
-* Git
-* Apache Maven
-* Apache Tomcat
-* Checkstyle plugin
-* Hibernate
-* MySql
 * Spring
+* Spring Security
+* Hibernate
+* REST
+* JSON
+* Apache Tomcat
+* Apache Maven
+* MySql
+* Git
+* Checkstyle plugin
 
 ## 
 ## ⚙️ Steps to run the program on your computer:
